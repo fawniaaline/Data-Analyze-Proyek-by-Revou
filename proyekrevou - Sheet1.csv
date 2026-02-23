@@ -1,0 +1,437 @@
+ID_Proyek,Jenis_Proyek,Lokasi,Nama_Proyek,Anggaran,Kontraktor
+CN-0001-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"649,208,256.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0001-2024,Drainase,Surabaya,Perbaikan Drainase Surabaya,"326,999,652.00",CV Sihombing
+CN-0002-2023,Flyover,Depok,Pembuatan Flyover Depok,"3,474,309,188.00",CV Sihombing
+CN-0002-2024,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"8,587,951,510.00",CV Sihombing
+CN-0003-2024,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"8,016,851,785.00",PT.  Yuniar Hakim Tbk
+CN-0004-2023,Flyover,Tomohon,Pembuatan Flyover Tomohon,"3,979,021,821.00",PT D
+CN-0004-2024,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"2,153,093,275.00",PT.  Yuniar Hakim Tbk
+CN-0005-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"683,556,997.00",PT A
+CN-0005-2024,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"4,636,324,090.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0006-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"663,835,414.00",PT B
+CN-0006-2024,Drainase,Bandung,Perbaikan Drainase Bandung,"698,540,517.00",PT A
+CN-0007-2023,Flyover,Medan,Pembuatan Flyover Medan,"2,423,693,734.00",PT D
+CN-0007-2024,Drainase,Depok,Perbaikan Drainase Depok,"313,131,839.00",PT D
+CN-0008-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"281,077,623.00",PT.  Yuniar Hakim Tbk
+CN-0008-2024,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"921,085,536.00",PT B
+CN-0009-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"241,214,887.00",PT B
+CN-0009-2024,Drainase,Bandung,Perbaikan Drainase Bandung,"425,861,681.00",PT D
+CN-0010-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"749,126,801.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0010-2024,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"6,584,342,537.00",PT.  Yuniar Hakim Tbk
+CN-0011-2023,Drainase,Depok,Perbaikan Drainase Depok,"536,495,065.00",CV Sihombing
+CN-0011-2024,Flyover,Bandung,Pembuatan Flyover Bandung,"3,981,092,285.00",PT D
+CN-0012-2023,Drainase,Medan,Perbaikan Drainase Medan,"341,629,572.00",CV Sihombing
+CN-0012-2024,Drainase,Tomohon,Perbaikan Drainase Tomohon,"603,837,273.00",PT B
+CN-0013-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"4,534,202,846.00",CV Sihombing
+CN-0013-2024,Drainase,Medan,Perbaikan Drainase Medan,"257,898,943.00",PT.  Yuniar Hakim Tbk
+CN-0014-2023,Drainase,Medan,Perbaikan Drainase Medan,"489,065,831.00",PT A
+CN-0014-2024,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"545,662,746.00",PT A
+CN-0015-2024,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"810,414,368.00",PT C
+CN-0016-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"341,929,482.00",PT.  Yuniar Hakim Tbk
+CN-0016-2024,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"599,466,235.00",PT.  Yuniar Hakim Tbk
+CN-0017-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"4,929,333,305.00",PT.  Yuniar Hakim Tbk
+CN-0017-2024,Drainase,Bandung,Perbaikan Drainase Bandung,"333,089,653.00",PT B
+CN-0018-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"523,689,841.00",PT D
+CN-0018-2024,Flyover,Bandung,Pembuatan Flyover Bandung,"3,757,312,666.00",PT B
+CN-0019-2023,Flyover,Medan,Pembuatan Flyover Medan,"3,894,709,817.00",PT.  Yuniar Hakim Tbk
+CN-0020-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"4,532,376,815.00",PT D
+CN-0020-2024,Jembatan,Depok,Pembuatan Jembatan Depok,"3,821,117,140.00",PT D
+CN-0021-2023,Flyover,Bau-Bau,Perbaikan Flyover Bau-Bau,"4,159,855,566.00",PT C
+CN-0022-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"4,492,886,828.00",PT D
+CN-0023-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"1,424,729,417.00",PT.  Yuniar Hakim Tbk
+CN-0024-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"1,425,616,276.00",CV Sihombing
+CN-0025-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"307,413,755.00",CV Sihombing
+CN-0026-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"6,929,733,135.00",PT C
+CN-0027-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"1,567,712,170.00",PT.  Yuniar Hakim Tbk
+CN-0028-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"3,020,860,458.00",PT.  Yuniar Hakim Tbk
+CN-0029-2023,Drainase,Medan,Perbaikan Drainase Medan,"443,234,047.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0030-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"4,609,627,000.00",PT C
+CN-0031-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"995,204,213.00",PT.  Yuniar Hakim Tbk
+CN-0032-2023,Flyover,Medan,Perbaikan Flyover Medan,"3,867,579,335.00",PT D
+CN-0033-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"8,428,412,586.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0034-2023,Flyover,Tomohon,Perbaikan Flyover Tomohon,"2,004,784,321.00",PT A
+CN-0035-2023,Jembatan,Surabaya,Perbaikan Jembatan Surabaya,"2,364,631,347.00",CV Sihombing
+CN-0036-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"7,177,546,505.00",PT A
+CN-0037-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"420,827,734.00",PT B
+CN-0039-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"1,545,241,955.00",CV Sihombing
+CN-0040-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"6,831,252,497.00",PT A
+CN-0042-2023,Flyover,Surabaya,Perbaikan Flyover Surabaya,"3,678,391,600.00",PT B
+CN-0043-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"888,014,731.00",PT B
+CN-0044-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"593,629,020.00",PT D
+CN-0046-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"213,457,440.00",PT A
+CN-0047-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"327,569,561.00",PT A
+CN-0048-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"705,483,967.00",CV Sihombing
+CN-0049-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"3,447,782,131.00",PT D
+CN-0050-2023,Flyover,Depok,Pembuatan Flyover Depok,"2,635,808,219.00",PT B
+CN-0051-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"2,011,712,412.00",PT D
+CN-0052-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"3,202,495,526.00",CV Sihombing
+CN-0053-2023,Flyover,Surabaya,Perbaikan Flyover Surabaya,"1,655,558,865.00",PT B
+CN-0054-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"4,806,787,932.00",CV Sihombing
+CN-0055-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"699,551,361.00",PT A
+CN-0056-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"363,997,813.00",PT.  Yuniar Hakim Tbk
+CN-0057-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"926,922,328.00",PT C
+CN-0059-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"708,312,743.00",PT D
+CN-0060-2023,Drainase,Medan,Perbaikan Drainase Medan,"419,037,113.00",PT A
+CN-0061-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"500,841,363.00",PT.  Yuniar Hakim Tbk
+CN-0062-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"209,304,110.00",PT.  Yuniar Hakim Tbk
+CN-0063-2023,Jembatan,Medan,Perbaikan Jembatan Medan,"3,686,469,051.00",PT.  Yuniar Hakim Tbk
+CN-0064-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"353,290,709.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0065-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"8,935,017,863.00",PT A
+CN-0066-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"5,518,454,926.00",PT C
+CN-0068-2023,Flyover,Bandung,Perbaikan Flyover Bandung,"2,293,993,253.00",PT C
+CN-0069-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"1,790,927,128.00",PT D
+CN-0072-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"5,522,312,320.00",PT.  Yuniar Hakim Tbk
+CN-0073-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"934,325,560.00",PT D
+CN-0074-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"121,142,623.00",CV Sihombing
+CN-0075-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"1,493,231,996.00",PT C
+CN-0076-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"5,860,997,586.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0077-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"551,513,519.00",CV Sihombing
+CN-0078-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"359,783,228.00",CV Sihombing
+CN-0079-2023,Flyover,Surabaya,Perbaikan Flyover Surabaya,"4,429,242,773.00",PT D
+CN-0080-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"2,034,415,367.00",PT B
+CN-0081-2023,Jembatan,Medan,Perbaikan Jembatan Medan,"1,597,122,511.00",CV Sihombing
+CN-0082-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"966,519,099.00",PT C
+CN-0083-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"881,938,572.00",PT.  Yuniar Hakim Tbk
+CN-0084-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"4,508,122,990.00",PT D
+CN-0085-2023,Flyover,Medan,Pembuatan Flyover Medan,"1,863,372,939.00",CV Sihombing
+CN-0086-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"512,883,235.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0087-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"4,679,669,631.00",CV Sihombing
+CN-0088-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"4,513,453,864.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0089-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"7,126,604,362.00",PT D
+CN-0090-2023,Jembatan,Medan,Perbaikan Jembatan Medan,"4,952,427,692.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0091-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"542,759,810.00",CV Sihombing
+CN-0092-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"5,059,161,734.00",PT D
+CN-0093-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"5,462,259,142.00",PT A
+CN-0094-2023,Flyover,Tomohon,Perbaikan Flyover Tomohon,"3,922,070,251.00",PT D
+CN-0096-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"6,049,021,945.00",CV Sihombing
+CN-0097-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"989,197,622.00",CV Sihombing
+CN-0098-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"923,609,376.00",PT C
+CN-0099-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"7,000,822,070.00",PT D
+CN-0100-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"4,006,400,142.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0101-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"7,054,924,571.00",PT.  Yuniar Hakim Tbk
+CN-0103-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"7,221,183,664.00",PT C
+CN-0104-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"870,876,750.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0105-2023,Flyover,Makassar,Perbaikan Flyover Makassar,"2,164,051,592.00",PT C
+CN-0106-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"3,746,270,294.00",PT C
+CN-0107-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"3,094,147,448.00",PT.  Yuniar Hakim Tbk
+CN-0110-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"776,411,814.00",CV Sihombing
+CN-0111-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"5,326,254,824.00",PT.  Yuniar Hakim Tbk
+CN-0112-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"737,874,671.00",PT A
+CN-0113-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"6,410,731,228.00",PT B
+CN-0114-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"584,530,717.00",PT.  Yuniar Hakim Tbk
+CN-0115-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"5,399,904,068.00",PT C
+CN-0116-2023,Drainase,Depok,Perbaikan Drainase Depok,"620,525,430.00",PT D
+CN-0117-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"2,278,233,533.00",PT.  Yuniar Hakim Tbk
+CN-0118-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"2,425,304,687.00",PT C
+CN-0119-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"3,263,728,734.00",CV Sihombing
+CN-0120-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"7,299,558,365.00",PT.  Yuniar Hakim Tbk
+CN-0121-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"304,540,977.00",CV Sihombing
+CN-0122-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"5,043,663,492.00",PT.  Yuniar Hakim Tbk
+CN-0123-2023,Flyover,Makassar,Perbaikan Flyover Makassar,"3,438,414,318.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0124-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"538,173,778.00",PT.  Yuniar Hakim Tbk
+CN-0125-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"4,142,478,037.00",PT B
+CN-0126-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"4,552,866,676.00",PT A
+CN-0127-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"902,216,985.00",PT D
+CN-0128-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"6,582,376,288.00",PT C
+CN-0129-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"204,769,884.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0130-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"100,103,542.00",PT B
+CN-0131-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"567,827,038.00",PT.  Yuniar Hakim Tbk
+CN-0132-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"7,382,613,940.00",PT A
+CN-0133-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"3,840,273,247.00",PT C
+CN-0134-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"510,276,507.00",CV Sihombing
+CN-0135-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"806,848,236.00",PT B
+CN-0136-2023,Flyover,Surabaya,Perbaikan Flyover Surabaya,"3,687,967,195.00",PT C
+CN-0138-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"603,531,905.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0139-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"648,732,190.00",PT.  Yuniar Hakim Tbk
+CN-0140-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"872,561,312.00",PT C
+CN-0141-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"461,667,131.00",PT D
+CN-0143-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"339,042,702.00",PT B
+CN-0144-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"9,295,259,236.00",PT A
+CN-0145-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"7,601,913,991.00",CV Sihombing
+CN-0146-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"307,072,675.00",CV Sihombing
+CN-0147-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"3,190,510,162.00",PT B
+CN-0148-2023,Drainase,Medan,Perbaikan Drainase Medan,"724,043,833.00",PT B
+CN-0149-2023,Flyover,Depok,Perbaikan Flyover Depok,"3,094,852,115.00",PT D
+CN-0151-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"5,094,791,554.00",CV Sihombing
+CN-0153-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"1,692,019,622.00",PT A
+CN-0154-2023,Flyover,Depok,Perbaikan Flyover Depok,"4,909,765,412.00",PT.  Yuniar Hakim Tbk
+CN-0155-2023,Flyover,Depok,Perbaikan Flyover Depok,"3,396,315,626.00",PT C
+CN-0159-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"484,231,869.00",CV Sihombing
+CN-0160-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"1,552,182,554.00",PT B
+CN-0161-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"212,901,636.00",PT C
+CN-0162-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"862,295,964.00",PT B
+CN-0163-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"636,437,813.00",PT.  Yuniar Hakim Tbk
+CN-0164-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"22,993,543,140.00",PT A
+CN-0165-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"5,097,478,222.00",CV Sihombing
+CN-0166-2023,Jembatan,Depok,Pembuatan Jembatan Depok,"6,825,404,228.00",PT.  Yuniar Hakim Tbk
+CN-0167-2023,Drainase,Depok,Perbaikan Drainase Depok,"711,908,536.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0168-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"4,488,626,883.00",PT A
+CN-0169-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"833,760,455.00",PT D
+CN-0170-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"796,873,116.00",PT C
+CN-0171-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"265,841,157.00",PT B
+CN-0172-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"2,403,144,972.00",PT B
+CN-0173-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"2,353,183,969.00",PT C
+CN-0174-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"3,010,188,959.00",PT C
+CN-0175-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"3,270,056,272.00",PT.  Yuniar Hakim Tbk
+CN-0176-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"2,737,545,275.00",PT A
+CN-0177-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"435,396,392.00",PT A
+CN-0178-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"862,972,191.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0179-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"540,011,263.00",PT A
+CN-0180-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"1,029,500,364.00",PT D
+CN-0181-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"641,123,605.00",CV Sihombing
+CN-0182-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"3,739,543,587.00",PT C
+CN-0183-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"1,989,239,519.00",PT B
+CN-0184-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"751,081,465.00",PT A
+CN-0185-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"396,170,576.00",PT D
+CN-0186-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"3,867,278,410.00",PT B
+CN-0187-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"1,475,452,617.00",PT A
+CN-0189-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"467,726,708.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0190-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"3,277,415,006.00",PT C
+CN-0191-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"636,468,503.00",PT.  Yuniar Hakim Tbk
+CN-0192-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"1,206,249,778.00",PT B
+CN-0192-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"6,060,807,570.00",PT.  Yuniar Hakim Tbk
+CN-0195-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"6,557,069,994.00",PT C
+CN-0196-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"4,526,013,687.00",PT B
+CN-0197-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"1,746,655,000.00",CV Sihombing
+CN-0198-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"846,453,122.00",PT D
+CN-0199-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"203,965,243.00",PT D
+CN-0200-2023,Flyover,Bau-Bau,Perbaikan Flyover Bau-Bau,"10,119,728,525.00",PT B
+CN-0201-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"4,915,550,556.00",PT A
+CN-0202-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"490,931,117.00",CV Sihombing
+CN-0203-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"345,656,676.00",CV Sihombing
+CN-0204-2023,Flyover,Bau-Bau,Perbaikan Flyover Bau-Bau,"2,994,383,941.00",PT B
+CN-0205-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"6,364,217,108.00",PT D
+CN-0206-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"3,757,150,419.00",PT A
+CN-0207-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"4,655,083,177.00",PT B
+CN-0208-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"612,637,613.00",PT B
+CN-0209-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"765,288,058.00",CV Sihombing
+CN-0210-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"996,933,795.00",PT D
+CN-0212-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"6,951,220,052.00",CV Sihombing
+CN-0214-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"1,258,024,298.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0215-2023,Drainase,Makassar,Perbaikan Drainase Makassar,"375,761,303.00",PT A
+CN-0216-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"6,540,978,129.00",PT D
+CN-0217-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"342,017,973.00",PT.  Yuniar Hakim Tbk
+CN-0218-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"4,806,164,886.00",PT.  Yuniar Hakim Tbk
+CN-0219-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"9,209,856,007.00",PT A
+CN-0220-2023,Drainase,Makassar,Perbaikan Drainase Makassar,"269,400,319.00",CV Sihombing
+CN-0221-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"3,098,986,860.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0222-2023,Jembatan,Surabaya,Perbaikan Jembatan Surabaya,"2,873,619,122.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0223-2023,Drainase,Depok,Perbaikan Drainase Depok,"735,575,459.00",PT.  Yuniar Hakim Tbk
+CN-0224-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"2,354,261,081.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0225-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"2,697,497,947.00",PT A
+CN-0226-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"277,801,695.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0227-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"5,365,371,920.00",PT.  Yuniar Hakim Tbk
+CN-0228-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"737,701,834.00",PT A
+CN-0230-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"343,573,944.00",PT D
+CN-0231-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"802,980,870.00",PT B
+CN-0232-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"1,132,821,017.00",PT D
+CN-0233-2023,Drainase,Depok,Perbaikan Drainase Depok,"646,267,645.00",PT A
+CN-0234-2023,Jembatan,Tomohon,Pembuatan Jembatan Tomohon,"1,091,849,633.00",PT C
+CN-0235-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"969,437,655.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0236-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"3,165,392,319.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0237-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"5,204,534,546.00",PT.  Yuniar Hakim Tbk
+CN-0238-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"3,942,664,693.00",PT A
+CN-0239-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"1,996,986,704.00",PT C
+CN-0240-2023,Jembatan,Jakarta,Perbaikan Jembatan Jakarta,"1,005,719,572.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0241-2023,Flyover,Makassar,Perbaikan Flyover Makassar,"4,155,376,448.00",PT D
+CN-0242-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"6,519,755,129.00",PT B
+CN-0243-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"509,824,821.00",PT C
+CN-0245-2023,Flyover,Medan,Pembuatan Flyover Medan,"2,236,844,121.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0246-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"369,427,315.00",PT.  Yuniar Hakim Tbk
+CN-0247-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"3,688,243,132.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0248-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"381,166,441.00",PT C
+CN-0250-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"283,236,486.00",CV Sihombing
+CN-0251-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"288,462,185.00",PT B
+CN-0252-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"706,008,565.00",PT C
+CN-0253-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"3,442,468,253.00",PT C
+CN-0254-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"2,233,995,238.00",PT B
+CN-0255-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"579,386,663.00",PT B
+CN-0256-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"2,892,512,480.00",PT B
+CN-0257-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"1,731,360,253.00",PT.  Yuniar Hakim Tbk
+CN-0258-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"4,702,380,798.00",PT C
+CN-0259-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"1,321,857,853.00",CV Sihombing
+CN-0260-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"4,256,914,338.00",PT B
+CN-0261-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"202,438,902.00",PT C
+CN-0262-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"7,153,815,573.00",CV Sihombing
+CN-0263-2023,Flyover,Depok,Pembuatan Flyover Depok,"2,210,232,440.00",PT.  Yuniar Hakim Tbk
+CN-0264-2023,Jembatan,Medan,Perbaikan Jembatan Medan,"2,045,004,222.00",PT B
+CN-0265-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"607,111,213.00",PT.  Yuniar Hakim Tbk
+CN-0266-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"378,250,495.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0268-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"4,178,594,822.00",PT.  Yuniar Hakim Tbk
+CN-0269-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"660,225,526.00",PT C
+CN-0270-2023,Jembatan,Depok,Pembuatan Jembatan Depok,"6,255,723,631.00",PT C
+CN-0271-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"1,935,087,556.00",CV Sihombing
+CN-0272-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"6,639,282,641.00",PT A
+CN-0273-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"1,341,304,566.00",PT B
+CN-0274-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"1,482,129,947.00",PT D
+CN-0275-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"5,134,610,940.00",CV Sihombing
+CN-0276-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"344,333,067.00",PT C
+CN-0277-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"2,347,619,310.00",PT D
+CN-0278-2023,Flyover,Tomohon,Perbaikan Flyover Tomohon,"2,422,397,660.00",PT A
+CN-0279-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"593,562,614.00",CV Sihombing
+CN-0280-2023,Flyover,Tomohon,Pembuatan Flyover Tomohon,"3,507,077,254.00",PT A
+CN-0281-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"7,830,031,020.00",PT.  Yuniar Hakim Tbk
+CN-0283-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"8,403,683,934.00",PT D
+CN-0284-2023,Flyover,Bandung,Perbaikan Flyover Bandung,"4,381,657,926.00",PT.  Yuniar Hakim Tbk
+CN-0285-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"1,717,899,076.00",CV Sihombing
+CN-0286-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"231,308,784.00",PT C
+CN-0287-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"1,694,502,492.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0288-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"6,044,403,214.00",PT C
+CN-0290-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"873,718,114.00",CV Sihombing
+CN-0291-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"230,467,768.00",PT B
+CN-0292-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"688,191,398.00",CV Sihombing
+CN-0293-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"2,697,606,072.00",CV Sihombing
+CN-0294-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"990,744,889.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0295-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"3,212,613,392.00",PT A
+CN-0296-2023,Jembatan,Makassar,Pembuatan Jembatan Makassar,"843,044,899.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0298-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"8,993,425,036.00",PT D
+CN-0299-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"4,764,842,863.00",PT A
+CN-0301-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"2,466,228,274.00",PT.  Yuniar Hakim Tbk
+CN-0302-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"3,270,114,898.00",PT D
+CN-0303-2023,Flyover,Depok,Perbaikan Flyover Depok,"2,841,617,618.00",PT D
+CN-0307-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"647,397,365.00",PT D
+CN-0308-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"775,460,621.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0309-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"7,165,201,683.00",CV Sihombing
+CN-0311-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"4,732,793,482.00",PT B
+CN-0312-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"2,993,133,974.00",PT B
+CN-0313-2023,Flyover,Tomohon,Pembuatan Flyover Tomohon,"4,720,470,438.00",PT C
+CN-0314-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"3,999,421,618.00",PT B
+CN-0315-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"1,118,159,098.00",PT A
+CN-0317-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"246,997,207.00",PT D
+CN-0318-2023,Flyover,Bandung,Perbaikan Flyover Bandung,"4,163,473,786.00",PT C
+CN-0319-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"2,007,900,262.00",PT.  Yuniar Hakim Tbk
+CN-0320-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"9,921,498,760.00",PT D
+CN-0321-2023,Flyover,Bandung,Perbaikan Flyover Bandung,"2,562,733,310.00",PT B
+CN-0322-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"894,294,565.00",PT D
+CN-0323-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"661,378,979.00",PT.  Yuniar Hakim Tbk
+CN-0325-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"609,956,841.00",PT B
+CN-0326-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"4,372,183,615.00",PT D
+CN-0327-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"7,734,024,053.00",PT.  Yuniar Hakim Tbk
+CN-0328-2023,Flyover,Tomohon,Pembuatan Flyover Tomohon,"2,237,295,280.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0329-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"4,595,910,673.00",PT C
+CN-0330-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"5,159,672,072.00",CV Sihombing
+CN-0332-2023,Jembatan,Bau-Bau,Pembuatan Jembatan Bau-Bau,"4,769,425,566.00",CV Sihombing
+CN-0333-2023,Jembatan,Depok,Pembuatan Jembatan Depok,"1,336,819,118.00",CV Sihombing
+CN-0334-2023,Drainase,Depok,Perbaikan Drainase Depok,"471,750,376.00",PT C
+CN-0335-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"628,901,605.00",PT C
+CN-0336-2023,Jembatan,Medan,Perbaikan Jembatan Medan,"1,251,866,235.00",PT A
+CN-0337-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"321,020,182.00",PT D
+CN-0338-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"4,533,278,952.00",PT.  Yuniar Hakim Tbk
+CN-0339-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"4,814,287,975.00",PT.  Yuniar Hakim Tbk
+CN-0340-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"5,011,848,562.00",PT B
+CN-0341-2023,Flyover,Bandung,Pembuatan Flyover Bandung,"2,187,444,281.00",CV Sihombing
+CN-0342-2023,Jembatan,Jakarta,Perbaikan Jembatan Jakarta,"3,086,567,364.00",PT D
+CN-0343-2023,Jembatan,Bau-Bau,Perbaikan Jembatan Bau-Bau,"3,308,514,312.00",PT A
+CN-0344-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"283,571,018.00",PT.  Yuniar Hakim Tbk
+CN-0345-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"7,071,217,769.00",PT C
+CN-0346-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"5,103,380,941.00",PT C
+CN-0347-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"4,342,819,473.00",PT D
+CN-0348-2023,Jembatan,Jakarta,Perbaikan Jembatan Jakarta,"6,977,377,591.00",PT B
+CN-0349-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"5,457,855,102.00",PT A
+CN-0350-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"2,054,160,295.00",CV Sihombing
+CN-0351-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"2,343,750,073.00",CV Sihombing
+CN-0352-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"1,025,269,810.00",PT C
+CN-0353-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"350,434,222.00",PT B
+CN-0354-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"497,218,843.00",PT B
+CN-0355-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"872,130,533.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0356-2023,Flyover,Depok,Pembuatan Flyover Depok,"4,907,012,780.00",CV Sihombing
+CN-0357-2023,Flyover,Medan,Pembuatan Flyover Medan,"3,253,936,748.00",PT D
+CN-0359-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"1,635,038,686.00",PT B
+CN-0360-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"9,829,087,531.00",PT A
+CN-0361-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"1,057,037,862.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0362-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"5,469,982,538.00",CV Sihombing
+CN-0363-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"5,055,515,290.00",PT B
+CN-0365-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"6,904,869,726.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0367-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"888,436,167.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0368-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"1,354,806,627.00",CV Sihombing
+CN-0369-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"984,605,716.00",PT D
+CN-0370-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"371,601,786.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0371-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"516,197,294.00",PT A
+CN-0372-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"540,697,362.00",PT B
+CN-0373-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"6,374,609,108.00",PT A
+CN-0374-2023,Jembatan,Surabaya,Perbaikan Jembatan Surabaya,"2,805,083,829.00",PT.  Yuniar Hakim Tbk
+CN-0375-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"7,779,607,484.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0377-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"909,945,479.00",CV Sihombing
+CN-0379-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"320,968,841.00",PT A
+CN-0380-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"2,879,285,863.00",PT D
+CN-0381-2023,Flyover,Tomohon,Pembuatan Flyover Tomohon,"4,595,916,165.00",PT C
+CN-0382-2023,Jembatan,Surabaya,Perbaikan Jembatan Surabaya,"1,299,848,740.00",PT B
+CN-0383-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"3,206,827,076.00",PT D
+CN-0384-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"559,804,949.00",PT.  Yuniar Hakim Tbk
+CN-0386-2023,Jalan Raya,Tomohon,Perbaikan Jalan Raya Tomohon,"685,929,486.00",PT A
+CN-0387-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"2,626,084,542.00",PT.  Yuniar Hakim Tbk
+CN-0388-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"893,411,259.00",PT A
+CN-0389-2023,Drainase,Medan,Perbaikan Drainase Medan,"264,833,844.00",PT A
+CN-0390-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"588,269,229.00",PT D
+CN-0391-2023,Drainase,Bau-Bau,Perbaikan Drainase Bau-Bau,"691,409,314.00",PT C
+CN-0393-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"1,906,777,116.00",CV Sihombing
+CN-0395-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"131,415,829.00",PT D
+CN-0396-2023,Drainase,Makassar,Perbaikan Drainase Makassar,"435,534,089.00",PT B
+CN-0397-2023,Gedung,Jakarta,Perbaikan Gedung Pemerintah Jakarta,"1,107,624,052.00",CV Sihombing
+CN-0399-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"2,100,848,894.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0400-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"505,388,172.00",CV Sihombing
+CN-0401-2023,Jalan Raya,Bau-Bau,Perbaikan Jalan Raya Bau-Bau,"574,563,455.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0402-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"445,199,395.00",CV Sihombing
+CN-0403-2023,Jalan Raya,Jakarta,Perbaikan Jalan Raya Jakarta,"849,005,913.00",CV Sihombing
+CN-0404-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"3,098,364,960.00",PT.  Yuniar Hakim Tbk
+CN-0405-2023,Flyover,Medan,Perbaikan Flyover Medan,"1,607,071,599.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0406-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"2,771,182,474.00",PT D
+CN-0407-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"153,884,086.00",PT D
+CN-0411-2023,Gedung,Depok,Perbaikan Gedung Pemerintah Depok,"1,652,872,648.00",PT D
+CN-0412-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"7,444,707,554.00",PT.  Yuniar Hakim Tbk
+CN-0413-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"308,009,410.00",PT A
+CN-0414-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"2,851,933,896.00",PT D
+CN-0415-2023,Jembatan,Medan,Pembuatan Jembatan Medan,"5,932,217,911.00",CV Sihombing
+CN-0416-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"394,459,258.00",PT.  Yuniar Hakim Tbk
+CN-0417-2023,Flyover,Jakarta,Perbaikan Flyover Jakarta,"3,343,026,784.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0418-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"4,651,361,592.00",PT C
+CN-0419-2023,Drainase,Depok,Perbaikan Drainase Depok,"287,244,799.00",PT C
+CN-0423-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"642,644,763.00",PT D
+CN-0424-2023,Jembatan,Makassar,Perbaikan Jembatan Makassar,"5,716,503,787.00",PT B
+CN-0425-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"537,845,909.00",PT D
+CN-0426-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"800,732,653.00",PT C
+CN-0427-2023,Jembatan,Surabaya,Pembuatan Jembatan Surabaya,"676,299,944.00",PT D
+CN-0428-2023,Jembatan,Jakarta,Pembuatan Jembatan Jakarta,"5,621,717,823.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0429-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"1,652,704,535.00",CV Sihombing
+CN-0430-2023,Jembatan,Tomohon,Perbaikan Jembatan Tomohon,"2,696,276,120.00",PT A
+CN-0431-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"344,399,927.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0432-2023,Drainase,Depok,Perbaikan Drainase Depok,"624,334,418.00",PT D
+CN-0433-2023,Jembatan,Bandung,Perbaikan Jembatan Bandung,"7,036,506,058.00",PT D
+CN-0436-2023,Jembatan,Depok,Perbaikan Jembatan Depok,"5,694,242,987.00",PT.  Yuniar Hakim Tbk
+CN-0438-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"449,824,902.00",PT D
+CN-0439-2023,Jalan Raya,Bandung,Perbaikan Jalan Raya Bandung,"687,256,096.00",PT A
+CN-0440-2023,Jalan Raya,Depok,Perbaikan Jalan Raya Depok,"529,398,283.00",PT B
+CN-0441-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"4,710,182,773.00",PT.  Yuniar Hakim Tbk
+CN-0442-2023,Jalan Raya,Medan,Perbaikan Jalan Raya Medan,"744,960,204.00",CV Sihombing
+CN-0444-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"3,574,507,730.00",PT B
+CN-0445-2023,Flyover,Depok,Pembuatan Flyover Depok,"2,640,159,197.00",PT D
+CN-0446-2023,Jembatan,Jakarta,Perbaikan Jembatan Jakarta,"857,010,798.00",PT.  Yuniar Hakim Tbk
+CN-0447-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"3,902,836,313.00",PT.  Yuniar Hakim Tbk
+CN-0448-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"313,061,138.00",PT A
+CN-0449-2023,Flyover,Jakarta,Pembuatan Flyover Jakarta,"3,704,994,376.00",PT D
+CN-0450-2023,Jembatan,Bandung,Pembuatan Jembatan Bandung,"6,935,528,254.00",CV Sihombing
+CN-0451-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"1,827,330,534.00",PT C
+CN-0452-2023,Jalan Raya,Surabaya,Perbaikan Jalan Raya Surabaya,"643,095,755.00",PT B
+CN-0453-2023,Jalan Raya,Makassar,Perbaikan Jalan Raya Makassar,"195,287,277.00",PT B
+CN-0454-2023,Gedung,Tomohon,Perbaikan Gedung Pemerintah Tomohon,"6,786,324,237.00",PT.  Yuniar Hakim Tbk
+CN-0455-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"499,105,719.00",CV Sihombing
+CN-0456-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"461,111,964.00",CV Sihombing
+CN-0457-2023,Flyover,Tomohon,Perbaikan Flyover Tomohon,"3,310,535,255.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0458-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"1,639,451,183.00",PT D
+CN-0459-2023,Gedung,Makassar,Perbaikan Gedung Pemerintah Makassar,"2,042,593,058.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0460-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"2,438,226,800.00",PT D
+CN-0463-2023,Drainase,Surabaya,Perbaikan Drainase Surabaya,"633,299,430.00",PT.  Yuniar Hakim Tbk
+CN-0464-2023,Drainase,Depok,Perbaikan Drainase Depok,"518,578,528.00",PT.  Yuniar Hakim Tbk
+CN-0465-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"2,716,743,578.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0466-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"3,558,366,170.00",PT B
+CN-0467-2023,Flyover,Surabaya,Pembuatan Flyover Surabaya,"3,504,700,319.00",PT A
+CN-0468-2023,Gedung,Bandung,Perbaikan Gedung Pemerintah Bandung,"8,473,123,375.00",PT.  Lailasari Hariyah (Persero) Tbk
+CN-0470-2023,Flyover,Makassar,Perbaikan Flyover Makassar,"3,697,961,455.00",PT D
+CN-0471-2023,Gedung,Medan,Perbaikan Gedung Pemerintah Medan,"9,185,210,892.00",PT.  Yuniar Hakim Tbk
+CN-0472-2023,Drainase,Tomohon,Perbaikan Drainase Tomohon,"577,434,070.00",PT D
+CN-0473-2023,Gedung,Bau-Bau,Perbaikan Gedung Pemerintah Bau-Bau,"9,221,677,626.00",PT.  Yuniar Hakim Tbk
+CN-0474-2023,Flyover,Bau-Bau,Pembuatan Flyover Bau-Bau,"4,616,485,762.00",CV Sihombing
+CN-0476-2023,Drainase,Jakarta,Perbaikan Drainase Jakarta,"419,613,481.00",PT D
+CN-0477-2023,Drainase,Bandung,Perbaikan Drainase Bandung,"271,658,499.00",PT A
+CN-0478-2023,Flyover,Makassar,Pembuatan Flyover Makassar,"3,282,339,654.00",PT B
+CN-0479-2023,Gedung,Surabaya,Perbaikan Gedung Pemerintah Surabaya,"2,974,669,932.00",PT B
