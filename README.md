@@ -24,7 +24,9 @@ Using Excel for checked for missing values and deleted it, verified duplicate Pr
 ![Dashboard](images/dashboard.png)
 ## Key Insights
 The following insights were derived from aggregated SQL analysis and visual dashboard interpretation.
+
 1️⃣ Operational Concentration in Bridge Projects
+
 Bridge (Jembatan) projects account for the highest number of projects (102 projects), indicating strong operational focus in this category. However, despite dominating in frequency, bridge projects do not represent the highest average budget allocation. So, operational volume does not necessarily correlate with financial dominance.
 2️⃣ Capital Intensity in Building Projects
 Building (Gedung) projects have the highest average budget at IDR 5,086,256,423.21. This suggests that building projects require higher capital investment per project compared to other categories. So, building projects carry greater financial exposure and may require stricter cost monitoring.
