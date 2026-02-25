@@ -21,5 +21,4 @@ The dataset includes:
 ## Data Cleaning
 Using Excel for checked for missing values and deleted it, verified duplicate Project IDs, and ensured numeric consistency in the budget column
 ## Dashboard Overview
-https://github.com/fawniaaline/Data-Analyze-Proyek-by-Revou/blob/2f890a2d6c67e88f0ff5b94516eb4fc7e12ce42a/images/dashboard.png
-![images](dashboard.png)
+![Dashboard](images/dashboard.png)
