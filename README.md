@@ -21,4 +21,4 @@ The dataset includes:
 ## Data Cleaning
 Using Excel for checked for missing values and deleted it, verified duplicate Project IDs, and ensured numeric consistency in the budget column
 ## Dashboard Overview
-![Dashboard](dashboard.png)
+images/dashboard.png
