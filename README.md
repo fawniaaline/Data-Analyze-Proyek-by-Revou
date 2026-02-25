@@ -28,13 +28,21 @@ The following insights were derived from aggregated SQL analysis and visual dash
 1️⃣ Operational Concentration in Bridge Projects
 
 Bridge (Jembatan) projects account for the highest number of projects (102 projects), indicating strong operational focus in this category. However, despite dominating in frequency, bridge projects do not represent the highest average budget allocation. So, operational volume does not necessarily correlate with financial dominance.
+
 2️⃣ Capital Intensity in Building Projects
+
 Building (Gedung) projects have the highest average budget at IDR 5,086,256,423.21. This suggests that building projects require higher capital investment per project compared to other categories. So, building projects carry greater financial exposure and may require stricter cost monitoring.
+
 3️⃣ Contractor Concentration Risk
+
 PT. Yuniar Hakim Tbk manages the highest total budget, followed by PT A and PT D. The top three contractors control a significant share of total managed budget.
+
 4️⃣ Regional Investment Focus
+
 Bandung records the highest total regional budget allocation. This suggests that Bandung is a primary investment region within the project portfolio. So, geographical concentration may require regional risk assessment and balanced development strategy.
+
 5️⃣ Strategic Specialization of PT Yuniar
+
 Within PT Yuniar Hakim Tbk’s portfolio, the majority of budget allocation is concentrated in building projects. This indicates specialization in high-value construction segments. The company appears positioned as a key contractor in capital-intensive infrastructure development.
 ## Analytical Interpretation
 1. Bridge development is the area with the highest project frequency.
